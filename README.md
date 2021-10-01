@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The purpose of the project is to analyze metrics that can affect the manufacturing of MechaCar, a car prototype, and compare vehicle performance across different manufacturer lots. The metrics analyzed include vehicle length, weight, spoiler angle, ground clearance, AWD, MPG, and PSI.
+The purpose of this project is to analyze metrics that can affect the manufacturing of MechaCar, a car prototype, and compare vehicle performance across different manufacturer lots. The metrics analyzed include vehicle length, weight, spoiler angle, ground clearance, AWD, MPG, and PSI.
 
 ## Linear Regression to Predict MPG
 
@@ -58,6 +58,6 @@ At a significance level of 0.05, we can reject the null hypothesis since the p-v
 Another statistical analysis that can be performed to determine MechaCar's performance compared to its competition is a linear regression on city and highway fuel efficiency. With gasoline prices rising and the consumers concern with environmental impact increasing, it is an important feature that many consumers look at when purchasing a new car. This is the proposed study design:
 
 1. The metrics to test are city and highway fuel efficiencies.
-2. The Null Hypothesis is that all of the cars in the same class have the same fuel efficienies. THe Alternative Hypothesis is that they are not all the same.
+2. The Null Hypothesis is that all of the cars in the same class have the same fuel efficienies. The Alternative Hypothesis is that they are not all the same.
 3. Taking into consideration 5 car class types, the statystical test used on this study would be ANOVA for both types of fuel efficiencies. ANOVA is more indicated than t-test for statistical tests with three or more variables.
 4. The data used for the statistical test would be fuel efficiency data from 100 cars per class type to create a sample size of data.
